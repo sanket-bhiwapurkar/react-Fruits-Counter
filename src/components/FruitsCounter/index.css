@@ -1,0 +1,43 @@
+.bg-container {
+  background-color: #ffd569;
+  font-family: 'Roboto';
+  padding: 40px;
+}
+.counter-container {
+  background-color: #ffffff;
+  border-radius: 16px;
+  text-align: center;
+  padding: 40px;
+}
+.heading {
+  color: #000000;
+  padding-top: 40px;
+}
+
+.fruits-container {
+  display: flex;
+  justify-content: center;
+}
+.fruit-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px;
+}
+.fruit-img {
+  width: 400px;
+  padding-bottom: 40px;
+}
+
+.button {
+  height: 30px;
+  padding: 0px 16px;
+  background-color: #007bff;
+  border: 0px;
+  border-radius: 6px;
+  color: #ffffff;
+}
+
+.count {
+  color: #ffd569;
+}
